@@ -2,9 +2,13 @@
 
 An intelligent nutrition tracking application that uses AI to analyze food from photos and provide personalized dietary advice.
 
+<img width="2272" height="4304" alt="nutribuddy ss" src="https://github.com/user-attachments/assets/500afec8-28ba-4204-b5a1-e3ffd8a19463" />
+
 ## Overview
 
 NutriBuddy AI is a modern web application that helps users track their nutrition by simply taking photos of their meals. The app uses Google's Gemini AI to identify foods, calculate nutritional information, and provide personalized recommendations based on user goals and dietary needs.
+
+![NutriBuddy Demo gif](https://github.com/user-attachments/assets/0d65c298-f4c9-4f4a-bec4-df5aff2d9f30)
 
 ## Key Features
 

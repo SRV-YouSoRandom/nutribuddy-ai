@@ -1,5 +1,5 @@
 {
-  "name": "NutriVision AI",
+  "name": "NutriBuddy AI",
   "description": "An AI-powered nutrition tracker that analyzes food from images, calculates your nutritional needs, and provides personalized advice to help you reach your health goals.",
   "requestFramePermissions": [],
   "prompt": ""

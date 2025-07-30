@@ -159,7 +159,7 @@ const App: React.FC = () => {
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
                     <div className="flex items-center space-x-3">
                         <LogoIcon className="h-10 w-10 text-brand-primary" />
-                        <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 tracking-tight">NutriVision AI</h1>
+                        <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 tracking-tight">NutriBuddy AI</h1>
                     </div>
                 </div>
             </header>
@@ -177,7 +177,7 @@ const App: React.FC = () => {
                     <div className="lg:col-span-8 xl:col-span-9 space-y-8">
                          {!userProfile ? (
                             <div className="bg-bg-main p-8 rounded-2xl shadow-lg text-center">
-                                <h2 className="text-2xl font-bold text-gray-800 mb-4">Welcome to NutriVision AI</h2>
+                                <h2 className="text-2xl font-bold text-gray-800 mb-4">Welcome to NutriBuddy AI</h2>
                                 <p className="text-text-light">Please fill out your profile to get started. Your personal data helps us calculate your nutritional needs and provide tailored advice.</p>
                             </div>
                         ) : (
